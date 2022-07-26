@@ -1,0 +1,25 @@
+
+@media only screen and (min-width:768px) {
+    .banner-height img{
+    height: 650px;
+    max-height: 100%;
+}
+}
+
+@media only screen and (max-width:767px) {
+    .banner-height img{
+    height: 400px;
+    max-height: 100%;
+}
+}
+
+.plan-text p{
+    color: rgba(0, 0, 0, 0.614);
+}
+.plan{
+    transform: translateY(-50px);
+    color: white;
+}
+.plan p{
+        color: white;
+}
